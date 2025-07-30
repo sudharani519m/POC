@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahender\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{845DF4D1-68BD-4596-BC9E-42191851ADCA}|ButtonExamples\\ButtonExamples.csproj|c:\\users\\mahender\\source\\repos\\windowsformsapp1\\buttonexamples\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845DF4D1-68BD-4596-BC9E-42191851ADCA}|ButtonExamples\\ButtonExamples.csproj|solutionrelative:buttonexamples\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845DF4D1-68BD-4596-BC9E-42191851ADCA}|ButtonExamples\\ButtonExamples.csproj|C:\\Users\\Mahender\\source\\repos\\WindowsFormsApp1\\buttonexamples\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{845DF4D1-68BD-4596-BC9E-42191851ADCA}|ButtonExamples\\ButtonExamples.csproj|solutionrelative:buttonexamples\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{845DF4D1-68BD-4596-BC9E-42191851ADCA}|ButtonExamples\\ButtonExamples.csproj|C:\\Users\\Mahender\\source\\repos\\WindowsFormsApp1\\buttonexamples\\employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{845DF4D1-68BD-4596-BC9E-42191851ADCA}|ButtonExamples\\ButtonExamples.csproj|solutionrelative:buttonexamples\\employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\WindowsFormsApp1\\ButtonExamples\\Employee.cs",
+              "RelativeDocumentMoniker": "ButtonExamples\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\WindowsFormsApp1\\ButtonExamples\\Employee.cs",
+              "RelativeToolTip": "ButtonExamples\\Employee.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwKEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:04:08.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\WindowsFormsApp1\\ButtonExamples\\Employee.cs",
+              "RelativeDocumentMoniker": "ButtonExamples\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\WindowsFormsApp1\\ButtonExamples\\Employee.cs [Design]",
+              "RelativeToolTip": "ButtonExamples\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:04:04.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\WindowsFormsApp1\\ButtonExamples\\Employee.Designer.cs",
+              "RelativeDocumentMoniker": "ButtonExamples\\Employee.Designer.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\WindowsFormsApp1\\ButtonExamples\\Employee.Designer.cs",
+              "RelativeToolTip": "ButtonExamples\\Employee.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:02:47.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

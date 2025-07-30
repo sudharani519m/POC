@@ -1,0 +1,7 @@
+C:\Users\Mahender\source\repos\LINQExample\AggregateOperators.cs\bin\Debug\AggregateOperators.cs.exe.config
+C:\Users\Mahender\source\repos\LINQExample\AggregateOperators.cs\bin\Debug\AggregateOperators.cs.exe
+C:\Users\Mahender\source\repos\LINQExample\AggregateOperators.cs\bin\Debug\AggregateOperators.cs.pdb
+C:\Users\Mahender\source\repos\LINQExample\AggregateOperators.cs\obj\Debug\AggregateOperators.cs.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\LINQExample\AggregateOperators.cs\obj\Debug\AggregateOperators.cs.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\LINQExample\AggregateOperators.cs\obj\Debug\AggregateOperators.cs.exe
+C:\Users\Mahender\source\repos\LINQExample\AggregateOperators.cs\obj\Debug\AggregateOperators.cs.pdb

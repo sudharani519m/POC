@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB20DED-2A7C-4470-B6D4-CB280A81CB5F}|FileWriteExample\\FileWriteExample.csproj|C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\filewriteexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB20DED-2A7C-4470-B6D4-CB280A81CB5F}|FileWriteExample\\FileWriteExample.csproj|solutionrelative:filewriteexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175CC067-AF4A-458A-8EEB-30FA41B5E593}|OOPSExample\\OOPSExample.csproj|C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\oopsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175CC067-AF4A-458A-8EEB-30FA41B5E593}|OOPSExample\\OOPSExample.csproj|solutionrelative:oopsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4ADCF1-18AE-402F-A9D4-A8E151EDAC75}|ConsoleApp3\\CodeReusability.csproj|C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4ADCF1-18AE-402F-A9D4-A8E151EDAC75}|ConsoleApp3\\CodeReusability.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A4ADCF1-18AE-402F-A9D4-A8E151EDAC75}|ConsoleApp3\\ConsoleApp3.csproj|C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A4ADCF1-18AE-402F-A9D4-A8E151EDAC75}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8E4055-1AF7-4D71-9EA5-B9BE74B63DA0}|FileReadExmaple\\FileReadExmaple.csproj|c:\\users\\mahender\\source\\repos\\forloopexample\\filereadexmaple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8E4055-1AF7-4D71-9EA5-B9BE74B63DA0}|FileReadExmaple\\FileReadExmaple.csproj|solutionrelative:filereadexmaple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C279127-DC28-4D66-AA11-800C2F5D789D}|C#DataTypes\\C#DataTypes.csproj|c:\\users\\mahender\\source\\repos\\forloopexample\\c#datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C279127-DC28-4D66-AA11-800C2F5D789D}|C#DataTypes\\C#DataTypes.csproj|solutionrelative:c#datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB20DED-2A7C-4470-B6D4-CB280A81CB5F}|FileWriteExample\\FileWriteExample.csproj|C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\filewriteexample\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9FB20DED-2A7C-4470-B6D4-CB280A81CB5F}|FileWriteExample\\FileWriteExample.csproj|solutionrelative:filewriteexample\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\FileReadExmaple\\Program.cs",
+              "RelativeDocumentMoniker": "FileReadExmaple\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\FileReadExmaple\\Program.cs",
+              "RelativeToolTip": "FileReadExmaple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:26:04.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:56:29.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\C#DataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "C#DataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\C#DataTypes\\Program.cs",
+              "RelativeToolTip": "C#DataTypes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:42:14.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:39:57.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\FileWriteExample\\App.config",
+              "RelativeDocumentMoniker": "FileWriteExample\\App.config",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\FileWriteExample\\App.config",
+              "RelativeToolTip": "FileWriteExample\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-19T03:27:15.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\OOPSExample\\Program.cs",
+              "RelativeDocumentMoniker": "OOPSExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\OOPSExample\\Program.cs",
+              "RelativeToolTip": "OOPSExample\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:02:23.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\FileWriteExample\\Program.cs",
+              "RelativeDocumentMoniker": "FileWriteExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\ForLoopExample\\FileWriteExample\\Program.cs",
+              "RelativeToolTip": "FileWriteExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T15:52:30.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

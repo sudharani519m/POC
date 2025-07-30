@@ -1,0 +1,7 @@
+C:\Users\Mahender\source\repos\AcessModifierExample\ProtectedAcessExample\obj\Debug\ProtectedAcessExample.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\AcessModifierExample\ProtectedAcessExample\obj\Debug\ProtectedAcessExample.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\AcessModifierExample\ProtectedAcessExample\bin\Debug\ProtectedAcessExample.exe.config
+C:\Users\Mahender\source\repos\AcessModifierExample\ProtectedAcessExample\bin\Debug\ProtectedAcessExample.exe
+C:\Users\Mahender\source\repos\AcessModifierExample\ProtectedAcessExample\bin\Debug\ProtectedAcessExample.pdb
+C:\Users\Mahender\source\repos\AcessModifierExample\ProtectedAcessExample\obj\Debug\ProtectedAcessExample.exe
+C:\Users\Mahender\source\repos\AcessModifierExample\ProtectedAcessExample\obj\Debug\ProtectedAcessExample.pdb

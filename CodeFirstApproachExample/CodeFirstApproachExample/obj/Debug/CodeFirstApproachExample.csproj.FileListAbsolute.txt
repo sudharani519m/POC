@@ -1,0 +1,15 @@
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\bin\Debug\CodeFirstApproachExample.exe.config
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\bin\Debug\CodeFirstApproachExample.exe
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\bin\Debug\CodeFirstApproachExample.pdb
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\bin\Debug\EntityFramework.dll
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\bin\Debug\EntityFramework.xml
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\obj\Debug\CodeFirstApproachExample.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\obj\Debug\CodeFirstApproachExample.exe.config
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\obj\Debug\CodeFirstApproachExample.Migrations.IntialSetup.resources
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\obj\Debug\CodeFirstApproachExample.csproj.GenerateResource.cache
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\obj\Debug\CodeFirstApproachExample.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\obj\Debug\CodeFirs.917A58F1.Up2Date
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\obj\Debug\CodeFirstApproachExample.exe
+C:\Users\Mahender\source\repos\CodeFirstApproachExample\CodeFirstApproachExample\obj\Debug\CodeFirstApproachExample.pdb
