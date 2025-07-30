@@ -1,0 +1,58 @@
+﻿@model IEnumerable<MVCCodeFirstInCore.Models.Student>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+@{
+    @Html.Partial("/Views/Shared/_StudentPartial.cshtml");
+}
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Studentname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Marks)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClassTeacher)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalPercentage)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Studentname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Marks)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ClassTeacher)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TotalPercentage)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.StudentId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.StudentId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.StudentId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

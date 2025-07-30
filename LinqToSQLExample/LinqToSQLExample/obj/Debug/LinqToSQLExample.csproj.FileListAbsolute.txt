@@ -1,0 +1,15 @@
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\bin\Debug\LinqToSQLExample.exe.config
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\bin\Debug\LinqToSQLExample.exe
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\bin\Debug\LinqToSQLExample.pdb
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\obj\Debug\LinqToSQLExample.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\obj\Debug\LinqToSQLExample.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\obj\Debug\LinqToSQLExample.exe
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\obj\Debug\LinqToSQLExample.pdb
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\bin\Debug\EntityFramework.dll
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\bin\Debug\EntityFramework.xml
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\obj\Debug\LinqToSQLExample.exe.config
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\obj\Debug\LinqToSQ.B575E65A.Up2Date
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\bin\Debug\System.ValueTuple.dll
+C:\Users\Mahender\source\repos\LinqToSQLExample\LinqToSQLExample\bin\Debug\System.ValueTuple.xml

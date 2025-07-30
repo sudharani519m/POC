@@ -1,0 +1,11 @@
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\obj\Debug\LabelExample.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\obj\Debug\LabelExample.Form1.resources
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\obj\Debug\LabelExample.Properties.Resources.resources
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\obj\Debug\LabelExample.csproj.GenerateResource.cache
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\obj\Debug\LabelExample.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\bin\Debug\LabelExample.exe.config
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\bin\Debug\LabelExample.exe
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\bin\Debug\LabelExample.pdb
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\obj\Debug\LabelExample.exe
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\obj\Debug\LabelExample.pdb
+C:\Users\Mahender\source\repos\WindowsFormsApp1\LabelExample\obj\Debug\LabelExample.exe.config

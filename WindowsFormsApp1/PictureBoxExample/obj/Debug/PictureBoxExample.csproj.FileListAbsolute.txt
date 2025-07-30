@@ -1,0 +1,12 @@
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\obj\Debug\PictureBoxExample.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\obj\Debug\PictureBoxExample.Form1.resources
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\obj\Debug\PictureBoxExample.Properties.Resources.resources
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\obj\Debug\PictureBoxExample.csproj.GenerateResource.cache
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\obj\Debug\PictureBoxExample.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\bin\Debug\PictureBoxExample.exe.config
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\bin\Debug\PictureBoxExample.exe
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\bin\Debug\PictureBoxExample.pdb
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\obj\Debug\PictureBoxExample.exe
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\obj\Debug\PictureBoxExample.pdb
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\obj\Debug\PictureBoxExample.exe.config
+C:\Users\Mahender\source\repos\WindowsFormsApp1\PictureBoxExample\obj\Debug\PictureBoxExample.EventsExmaple.resources

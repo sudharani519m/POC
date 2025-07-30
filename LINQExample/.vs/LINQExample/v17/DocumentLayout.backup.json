@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF009B11-2652-4120-874A-20321725E223}|ConsoleApp1\\MaxProjectionExample.csproj|c:\\users\\mahender\\source\\repos\\linqexample\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF009B11-2652-4120-874A-20321725E223}|ConsoleApp1\\MaxProjectionExample.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45146FA1-EF67-4C91-9271-221DDD6A7FB8}|MaxSyntaxExample\\MaxSyntaxExample.csproj|C:\\Users\\Mahender\\source\\repos\\LINQExample\\maxsyntaxexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45146FA1-EF67-4C91-9271-221DDD6A7FB8}|MaxSyntaxExample\\MaxSyntaxExample.csproj|solutionrelative:maxsyntaxexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96422030-39FC-4B9B-B58D-E1971C08363E}|MiniProjectionExample\\MiniProjectionExample.csproj|C:\\Users\\Mahender\\source\\repos\\LINQExample\\miniprojectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96422030-39FC-4B9B-B58D-E1971C08363E}|MiniProjectionExample\\MiniProjectionExample.csproj|solutionrelative:miniprojectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FF3E9F-8128-4BBC-BB4C-23277ACAD63A}|ConvertToDictionaryExample\\ConvertToDictionaryExample.csproj|C:\\Users\\Mahender\\source\\repos\\LINQExample\\converttodictionaryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FF3E9F-8128-4BBC-BB4C-23277ACAD63A}|ConvertToDictionaryExample\\ConvertToDictionaryExample.csproj|solutionrelative:converttodictionaryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE2266B-807D-4C35-9943-1A23EF2A4D3E}|ConvertToListExample\\ConvertToListExample.csproj|C:\\Users\\Mahender\\source\\repos\\LINQExample\\converttolistexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DE2266B-807D-4C35-9943-1A23EF2A4D3E}|ConvertToListExample\\ConvertToListExample.csproj|solutionrelative:converttolistexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7549A48A-3BC3-4E09-8AF3-15B3A018030F}|SumProjectionExample\\SumProjectionExample.csproj|C:\\Users\\Mahender\\source\\repos\\LINQExample\\sumprojectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7549A48A-3BC3-4E09-8AF3-15B3A018030F}|SumProjectionExample\\SumProjectionExample.csproj|solutionrelative:sumprojectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6621DF-1ACC-493F-94A4-EFAC997DEC78}|SumSyntaxExample\\SumSyntaxExample.csproj|C:\\Users\\Mahender\\source\\repos\\LINQExample\\sumsyntaxexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6621DF-1ACC-493F-94A4-EFAC997DEC78}|SumSyntaxExample\\SumSyntaxExample.csproj|solutionrelative:sumsyntaxexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7BD256-635E-4B0A-9A31-DFBC2EC823F3}|OddExample\\OddExample.csproj|C:\\Users\\Mahender\\source\\repos\\LINQExample\\oddexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7BD256-635E-4B0A-9A31-DFBC2EC823F3}|OddExample\\OddExample.csproj|solutionrelative:oddexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC113FD4-ED0A-4879-BBEC-ECD856452572}|LINQExample\\LINQExample.csproj|C:\\Users\\Mahender\\source\\repos\\LINQExample\\linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC113FD4-ED0A-4879-BBEC-ECD856452572}|LINQExample\\LINQExample.csproj|solutionrelative:linqexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC543F9-8853-405C-96D1-C3FFB71DEA79}|AggregateOperators.cs\\AggregateOperators.cs.csproj|C:\\Users\\Mahender\\source\\repos\\LINQExample\\aggregateoperators.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACC543F9-8853-405C-96D1-C3FFB71DEA79}|AggregateOperators.cs\\AggregateOperators.cs.csproj|solutionrelative:aggregateoperators.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T18:53:00.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\MaxSyntaxExample\\Program.cs",
+              "RelativeDocumentMoniker": "MaxSyntaxExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\MaxSyntaxExample\\Program.cs",
+              "RelativeToolTip": "MaxSyntaxExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T18:48:42.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\MiniProjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "MiniProjectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\MiniProjectionExample\\Program.cs",
+              "RelativeToolTip": "MiniProjectionExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T18:42:36.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\ConvertToListExample\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertToListExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\ConvertToListExample\\Program.cs",
+              "RelativeToolTip": "ConvertToListExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:47:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\ConvertToDictionaryExample\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertToDictionaryExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\ConvertToDictionaryExample\\Program.cs",
+              "RelativeToolTip": "ConvertToDictionaryExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:40:14.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\SumProjectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "SumProjectionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\SumProjectionExample\\Program.cs",
+              "RelativeToolTip": "SumProjectionExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:24:31.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\SumSyntaxExample\\Program.cs",
+              "RelativeDocumentMoniker": "SumSyntaxExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\SumSyntaxExample\\Program.cs",
+              "RelativeToolTip": "SumSyntaxExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:18:32.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\OddExample\\Program.cs",
+              "RelativeDocumentMoniker": "OddExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\OddExample\\Program.cs",
+              "RelativeToolTip": "OddExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:16:07.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\AggregateOperators.cs\\Program.cs",
+              "RelativeDocumentMoniker": "AggregateOperators.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\AggregateOperators.cs\\Program.cs",
+              "RelativeToolTip": "AggregateOperators.cs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:10:53.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\LINQExample\\Program.cs",
+              "RelativeDocumentMoniker": "LINQExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\LINQExample\\LINQExample\\Program.cs",
+              "RelativeToolTip": "LINQExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:49:42.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

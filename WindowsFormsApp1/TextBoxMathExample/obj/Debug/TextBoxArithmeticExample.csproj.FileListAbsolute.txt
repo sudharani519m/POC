@@ -1,0 +1,10 @@
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\bin\Debug\TextBoxMathExample.exe.config
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\bin\Debug\TextBoxMathExample.exe
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\bin\Debug\TextBoxMathExample.pdb
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\obj\Debug\TextBoxArithmeticExample.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\obj\Debug\TextBoxMathExample.Form1.resources
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\obj\Debug\TextBoxMathExample.Properties.Resources.resources
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\obj\Debug\TextBoxArithmeticExample.csproj.GenerateResource.cache
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\obj\Debug\TextBoxArithmeticExample.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\obj\Debug\TextBoxMathExample.exe
+C:\Users\Mahender\source\repos\WindowsFormsApp1\TextBoxMathExample\obj\Debug\TextBoxMathExample.pdb

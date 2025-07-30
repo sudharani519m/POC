@@ -1,0 +1,8 @@
+C:\Users\Mahender\source\repos\ForLoopExample\FileReadExmaple\bin\Debug\FileReadExmaple.exe.config
+C:\Users\Mahender\source\repos\ForLoopExample\FileReadExmaple\bin\Debug\FileReadExmaple.exe
+C:\Users\Mahender\source\repos\ForLoopExample\FileReadExmaple\bin\Debug\FileReadExmaple.pdb
+C:\Users\Mahender\source\repos\ForLoopExample\FileReadExmaple\obj\Debug\FileReadExmaple.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\ForLoopExample\FileReadExmaple\obj\Debug\FileReadExmaple.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\ForLoopExample\FileReadExmaple\obj\Debug\FileReadExmaple.exe
+C:\Users\Mahender\source\repos\ForLoopExample\FileReadExmaple\obj\Debug\FileReadExmaple.pdb
+C:\Users\Mahender\source\repos\ForLoopExample\FileReadExmaple\obj\Debug\FileReadExmaple.exe.config

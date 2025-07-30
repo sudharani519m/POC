@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|c:\\users\\mahender\\source\\repos\\mvcdbfirstapproachexamples\\mvcdbfirstapproachexamples\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\content\\bootstrap-grid.rtl.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\content\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\content\\bootstrap-grid.rtl.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\content\\bootstrap-grid.rtl.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\content\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\content\\bootstrap-grid.min.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\content\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\content\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\mvcdbfirstapproachexamples\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9EF055-0D33-47E7-B255-6CA8A84BE55C}|MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples.csproj|solutionrelative:mvcdbfirstapproachexamples\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bootstrap-grid.rtl.min.css",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.min.css",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.min.css",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-27T22:30:31.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap-grid.rtl.css.map",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.css.map",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.css.map",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-27T22:30:30.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bootstrap-grid.rtl.css",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.css",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.css",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.css",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.rtl.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-27T22:30:28.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-grid.min.css.map",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.min.css.map",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.min.css.map",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.min.css.map",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.min.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-27T22:30:26.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.min.css",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.min.css",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-27T22:30:23.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.css.map",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-27T22:30:20.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Content\\bootstrap-grid.css",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Content\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-27T22:30:15.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T22:28:03.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T22:20:45.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Employee.cs",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T22:16:44.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Model1.edmx",
+              "RelativeDocumentMoniker": "MVCDbFirstApproachExamples\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCDbFirstApproachExamples\\MVCDbFirstApproachExamples\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MVCDbFirstApproachExamples\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-07-27T22:15:30.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

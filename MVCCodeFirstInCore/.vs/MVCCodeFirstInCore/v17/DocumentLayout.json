@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\shared\\_studentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\shared\\_studentpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\models\\dotnetcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\models\\dotnetcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\products\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\products\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|c:\\users\\mahender\\source\\repos\\mvccodefirstincore\\mvccodefirstincore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FAE56-4CE0-4665-BFFB-BACD47276FEB}|MVCCodeFirstInCore\\MVCCodeFirstInCore.csproj|solutionrelative:mvccodefirstincore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\appsettings.json",
+              "RelativeToolTip": "MVCCodeFirstInCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T16:04:45.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Filters\\LogActionFilter.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:02:40.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:43:10.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Program.cs",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T01:49:35.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwHkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T21:16:27.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_StudentPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Shared\\_StudentPartial.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\Shared\\_StudentPartial.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Shared\\_StudentPartial.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\Shared\\_StudentPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:41:16.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T01:40:03.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:56:43.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DotnetCoreDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Models\\DotnetCoreDBContext.cs",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Models\\DotnetCoreDBContext.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Models\\DotnetCoreDBContext.cs",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Models\\DotnetCoreDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:52:38.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T01:46:48.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Services\\ProductService.cs",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:32:31.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAIAwwDAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:45:12.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Products\\Show.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\Products\\Show.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Products\\Show.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\Products\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T02:06:19.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Services\\IProductService.cs",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:30:28.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Models\\Product.cs",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T00:29:09.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-29T20:20:05.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T19:39:09.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T19:39:02.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T19:38:17.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCCodeFirstInCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mahender\\source\\repos\\MVCCodeFirstInCore\\MVCCodeFirstInCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCCodeFirstInCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T19:32:56.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\Mahender\source\repos\LINQExample\SumProjectionExample\bin\Debug\SumProjectionExample.exe.config
+C:\Users\Mahender\source\repos\LINQExample\SumProjectionExample\bin\Debug\SumProjectionExample.exe
+C:\Users\Mahender\source\repos\LINQExample\SumProjectionExample\bin\Debug\SumProjectionExample.pdb
+C:\Users\Mahender\source\repos\LINQExample\SumProjectionExample\obj\Debug\SumProjectionExample.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\LINQExample\SumProjectionExample\obj\Debug\SumProjectionExample.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\LINQExample\SumProjectionExample\obj\Debug\SumProjectionExample.exe
+C:\Users\Mahender\source\repos\LINQExample\SumProjectionExample\obj\Debug\SumProjectionExample.pdb
+C:\Users\Mahender\source\repos\LINQExample\SumProjectionExample\obj\Debug\SumProjectionExample.exe.config

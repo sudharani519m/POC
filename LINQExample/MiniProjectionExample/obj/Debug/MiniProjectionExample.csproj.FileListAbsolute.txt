@@ -1,0 +1,8 @@
+C:\Users\Mahender\source\repos\LINQExample\MiniProjectionExample\bin\Debug\MiniProjectionExample.exe.config
+C:\Users\Mahender\source\repos\LINQExample\MiniProjectionExample\bin\Debug\MiniProjectionExample.exe
+C:\Users\Mahender\source\repos\LINQExample\MiniProjectionExample\bin\Debug\MiniProjectionExample.pdb
+C:\Users\Mahender\source\repos\LINQExample\MiniProjectionExample\obj\Debug\MiniProjectionExample.csproj.AssemblyReference.cache
+C:\Users\Mahender\source\repos\LINQExample\MiniProjectionExample\obj\Debug\MiniProjectionExample.csproj.CoreCompileInputs.cache
+C:\Users\Mahender\source\repos\LINQExample\MiniProjectionExample\obj\Debug\MiniProjectionExample.exe
+C:\Users\Mahender\source\repos\LINQExample\MiniProjectionExample\obj\Debug\MiniProjectionExample.pdb
+C:\Users\Mahender\source\repos\LINQExample\MiniProjectionExample\obj\Debug\MiniProjectionExample.exe.config
